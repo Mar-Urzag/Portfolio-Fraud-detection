@@ -86,6 +86,8 @@ streamlit run fraud_detection.py
 3. Pulsa **Predecir**.
 4. La app devuelve si la transacción es **fraude** o **no fraude**.
 
+   (Streamlit-09-11-2026_08_02_PM.png)
+
 ---
 
 ---
