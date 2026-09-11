@@ -76,7 +76,7 @@ Mejoras posibles: ajustar el *threshold* de decisión, usar `RandomForest`,
 ```bash
 streamlit run fraud_detection.py
 ```
- (https://github.com/Mar-Urzag/Portfolio-Fraud-detection/blob/main/Streamlit-09-11-2026_08_02_PM.png " APP ")
+![App Streamlit](Streamlit-09-11-2026_08_02_PM.png)
 
 
 ### Uso
